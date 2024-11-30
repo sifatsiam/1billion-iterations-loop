@@ -1,4 +1,4 @@
-
+## Nested loops that execute 1 billion iterations in C 🫡
 
 ### Step 1: Install MinGW (if not already installed)
 To compile C code using PowerShell, you need to have the **MinGW** toolchain installed, which includes `gcc`.
