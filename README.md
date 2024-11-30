@@ -55,3 +55,6 @@ This will execute the compiled program and you should see the output in the Powe
 - **Ensure correct directory**: Double-check that you're in the correct folder in PowerShell where your `.c` file is located before running the `gcc` command.
 
 That's all! You can now compile and run your C code in PowerShell using `gcc` from MinGW.
+
+💡ProTip: *You don't need to download `main.exe` gcc command will produce an executable called `main.exe` in the same directory* 🙂‍↔️
+
